@@ -13,5 +13,5 @@ function assignGrade(score) {
     console.log("F");
   }
 }
-let grade = 9.6
+let grade = 9.7
 assignGrade(grade);
